@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="250" width ="1000" src="https://github.com/veerabadhreswara/veerabadhreswara/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png"  />
+  <img height="250" width ="1000" src="https://github.com/gangadhararaoburada/gangadhararaoburada/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png"  />
 </div>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=veerabadhreswara.veerabadhreswara&left_text=Visitors"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gangadhararaoburada.gangadhararaoburada&left_text=Visitors"  />
 
 ###
 
@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=veerabadhreswara&theme=juicyfresh&column=-1&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=gangadhararaoburada&theme=juicyfresh&column=-1&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/veerabadhreswara/veerabadhreswara/blob/main/studying.jpg"  />
+<img align="right" height="150" src="https://github.com/gangadhararaoburada/gangadhararaoburada/blob/main/studying.jpg"  />
 
 ###
 
@@ -160,7 +160,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=veerabadhreswara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gangadhararaoburada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
@@ -170,7 +170,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veerabadhreswara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gangadhararaoburada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
 ###
@@ -180,7 +180,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=veerabadhreswara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="230" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=gangadhararaoburada&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="230" alt="streak graph"  />
 </div>
 
 ###
@@ -189,6 +189,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/veerabadhreswara/veerabadhreswara/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gangadhararaoburada/gangadhararaoburada/output/snake.svg" alt="Snake animation" />
 
 ###
