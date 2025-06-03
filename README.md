@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" width ="1000" src="https://github.com/gangadhararaoburada/gangadhararaoburada/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png"  />
+  <img height="250" width ="1000" src="https://github.com/gangadhararaoburada/gangadhararaoburada/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
   <a href="https://in.linkedin.com/in/gangadhararaoburada" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="" alt="linkedin logo"  />
   </a>
-  <a href="https://hackerrank.com/veerabadhrapoly1" target="_blank">
+  <a href="https://hackerrank.com/avdgrexternalpr1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="" alt="hackerrank logo"  />
   </a>
   <a href="https://t.me/gangadhararaoburada" target="_blank">
